@@ -1,0 +1,1 @@
+!function(){"use strict";window.wx.loadSubpackage({name:"sub",success:function(res){console.log("加载分包成功！")},fail:function(res){console.log("加载分包失败！")}})}();
