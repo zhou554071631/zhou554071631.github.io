@@ -1,10 +1,1 @@
-[
-    {"id":"1","res":"enemy_Hipster","enemyType":"1","missionType":"1","isStartExit":"0"},
-    {"id":"2","res":"enemy_Hipster","enemyType":"2","missionType":"1","isStartExit":"0"},
-    {"id":"3","res":"enemy_Hipster","enemyType":"3","missionType":"1","isStartExit":"0"},
-    {"id":"4","res":"hostage_Banker","enemyType":"4","missionType":"-1","isStartExit":"0"},
-    {"id":"5","res":"enemy_Suitcase","enemyType":"5","missionType":"2","isStartExit":"1"},
-    {"id":"6","res":"hostage_Yellow","enemyType":"4","missionType":"-1","isStartExit":"0"},
-    {"id":"7","res":"enemy_Suitcase","enemyType":"5","missionType":"2","isStartExit":"0"},
-    {"id":"8","res":"hostage_Yellow","enemyType":"6","missionType":"-1","isStartExit":"0"}
-    ]
+[{"id":"1","res":"enemy_Hipster","enemyType":"1","missionType":"1","isStartExit":"0"},{"id":"2","res":"enemy_Hipster","enemyType":"2","missionType":"1","isStartExit":"0"},{"id":"3","res":"enemy_Hipster","enemyType":"3","missionType":"1","isStartExit":"0"},{"id":"4","res":"hostage_Banker","enemyType":"4","missionType":"-1","isStartExit":"0"},{"id":"5","res":"enemy_Suitcase","enemyType":"5","missionType":"2","isStartExit":"1"},{"id":"6","res":"hostage_Yellow","enemyType":"4","missionType":"-1","isStartExit":"0"},{"id":"7","res":"enemy_Suitcase","enemyType":"5","missionType":"2","isStartExit":"0"},{"id":"8","res":"hostage_Yellow","enemyType":"6","missionType":"-1","isStartExit":"0"}    ]
