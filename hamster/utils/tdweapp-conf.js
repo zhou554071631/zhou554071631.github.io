@@ -1,0 +1,1 @@
+exports.config={appkey:"9302B330F8774323B835F31AC45A67AB",appName:"仓鼠小岛",versionName:"1",versionCode:"1.0",wxAppid:"wxbe427c2f99444035",getLocation:!1};
